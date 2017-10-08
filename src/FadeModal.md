@@ -1,6 +1,7 @@
+Fade animation with React.js.
 ## Usage
 
-``` javascript
+```js
 var Modal = require('boron/FadeModal');
 var Example = React.createClass({
     showModal: function(){

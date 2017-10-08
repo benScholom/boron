@@ -1,6 +1,8 @@
+Drop animation with React.js.
+
 ## Usage
 
-``` javascript
+```js
 var Modal = require('boron/DropModal');
 var Example = React.createClass({
     showModal: function(){

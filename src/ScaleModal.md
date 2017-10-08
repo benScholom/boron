@@ -1,6 +1,7 @@
+Scale animation with React.js.
 ## Usage
 
-``` javascript
+```js
 var Modal = require('boron/ScaleModal');
 var Example = React.createClass({
     showModal: function(){

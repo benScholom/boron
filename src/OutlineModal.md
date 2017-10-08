@@ -1,6 +1,7 @@
+Outline animation with React.js.
 ## Usage
 
-``` javascript
+```js
 var Modal = require('boron/OutlineModal');
 var Example = React.createClass({
     showModal: function(){

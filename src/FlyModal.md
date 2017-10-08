@@ -1,6 +1,7 @@
+Fly animation with React.js.
 ## Usage
 
-``` javascript
+```js
 var Modal = require('boron/FlyModal');
 var Example = React.createClass({
     showModal: function(){

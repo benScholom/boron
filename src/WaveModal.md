@@ -1,6 +1,7 @@
+Wave animation with React.js.
 ## Usage
 
-``` javascript
+```js
 var Modal = require('boron/WaveModal');
 var Example = React.createClass({
     showModal: function(){
